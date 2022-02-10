@@ -6,4 +6,4 @@
 <code>🧑‍💻 Languages: JavaScript, C</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@innuendo1235](https://telegram.me/innuendo1235)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [Kirillbeliashov14@gmail.com](mailto:Kirillbeliashov14@gmail.com)</code>
