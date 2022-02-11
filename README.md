@@ -3,7 +3,7 @@
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](PROJECT.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C</code>
+<code>🧑‍💻 Languages: JavaScript, C, Java (currently studying)</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
 <code>💬 telegram: [@innuendo1235](https://telegram.me/innuendo1235)</code>
 <code>📫 [Email](mailto:Kirillbeliashov14@gmail.com)</code>
