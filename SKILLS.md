@@ -15,27 +15,27 @@
 | 🟦 expression        | 🟦 do..while          | 🟦 pure               | 🟦 queue            | 🟦 hardcode          | 🟨 Function         |
 | 🟦 heap              | 🟦 for                | 🟦 function           | 🟦 stack            | 🟦 complexity        | 🟨 Callable         |
 | 🟦 type              | 🟨 for-each loop      | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     | 🟨 Multithreading   |
-| 🟦 primitive types   | 🟦 equality operators | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         | 🟨 Event            |
-| 🟦 reference         | 🟦 logical operators  | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     | 🟨 EventListener    |
-| 🟦 flag              | 🟦 bitwise operators  | ⬜️ curry              | 🟨 wrapper classes  | ⬜️ not invented here | 🟨 Synchronization  |
-| 🟦 lexical scope     | 🟦 break, continue    | 🟦 chaining           | 🟨 ArrayList        | 🟦 dead code         |
-| 🟦 code block        | 🟦 switch             | 🟦 higher order       | 🟨 enums            | 🟦 unreachable code  |
-| 🟨 access modifiers  | 🟨 new Exception      | 🟦 callback           | 🟨 Concurrent coll. | 🟦 duplicate code    |
-| 🟨 this              |                       | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
+| 🟦 primitive types   | 🟦 equality operators | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         | ⬜️ Event            |
+| 🟦 reference         | 🟦 logical operators  | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     | ⬜️ EventListener    |
+| 🟦 flag              | 🟦 bitwise operators  | ⬜️ curry              | 🟨 wrapper classes  | ⬜️ not invented here | 🟨 Thread           |
+| 🟦 lexical scope     | 🟦 break, continue    | 🟦 chaining           | 🟨 ArrayList        | 🟦 dead code         | 🟨 Fork/Join        |
+| 🟦 code block        | 🟦 switch             | 🟦 higher order       | 🟨 enums            | 🟦 unreachable code  | ⬜️ ClassLoader      |
+| 🟨 access modifiers  | 🟨 try/resources      | 🟦 callback           | 🟨 Concurrent coll. | 🟦 duplicate code    | 🟨 Consumer         |
+| 🟨 this              | 🟨 try/catch/finally  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
 | 🟨 anonymous classes |                       | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
 | 🟨 Object class      |                       | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
 | 🟨 method reference  |                       | 🟦 factory            | 🟨 string parsing   | ⬜️ prettier          |
 | 🟨 annotations       |                       | 🟦 pool               | 🟨 lambda expression| 🟦 unittest          |
-| 🟨 interfaces        |                       | 🟦 wrapper            | 🟨 HashMap          | 🟦 git               |
+| 🟨 interfaces        |                       | 🟦 wrapper            | 🟨 Map              | 🟦 git               |
 | 🟨 super             |                       | 🟨 varargs            | 🟨 RegExp           | 🟦 github            |
 | 🟨 final             |                       | 🟦 lambda             | 🟨 HashSet          | 🟨 JVM               |
 | 🟨 abstract          |                       | 🟨 default methods    | 🟨 ArrayList        | 🟨 packages          |
 | 🟨 Number class      |                       | 🟨 overriding method  | 🟦 null             | 🟨 JRE               |
 | 🟨 String class      |                       | 🟨 overloading method | 🟨 Collection       | ⬜️ JavaFX            |
 | 🟨 wildcard          |                       |                       | 🟨 List             | 🟨 JDK               |
-| 🟨 type casting      |                       |                       |                     | 🟨 Java SE/EE        |
-| 🟨 generics          |                       |                       |                     |                      |
-| 🟨 i/o operations    |                       |                       |                     |                      |
+| 🟨 type casting      |                       |                       | 🟨 Optional         | 🟨 Java SE/EE        |
+| 🟨 generics          |                       |                       |                     | ⬜️ Swing Components  |
+| 🟨 i/o operations    |                       |                       |                     | 🟨 JDBC              |
 | 🟨 extends           |                       |                       |                     |                      |
 
 
