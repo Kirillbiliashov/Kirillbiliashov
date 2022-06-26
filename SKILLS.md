@@ -21,19 +21,19 @@
 | 🟦 lexical scope     | 🟦 break, continue    | 🟦 chaining           | 🟨 ArrayList        | 🟦 dead code         | 🟨 Fork/Join        |
 | 🟦 code block        | 🟦 switch             | 🟦 higher order       | 🟨 enums            | 🟦 unreachable code  | ⬜️ ClassLoader      |
 | 🟨 access modifiers  | 🟨 try/resources      | 🟦 callback           | 🟨 Concurrent coll. | 🟦 duplicate code    | 🟨 Consumer         |
-| 🟨 this              | 🟨 try/catch/finally  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
+| 🟨 this              | 🟨 try/catch/finally  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         | 🟨 Singleton
 | 🟨 anonymous classes |                       | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
 | 🟨 Object class      |                       | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
 | 🟨 method reference  |                       | 🟦 factory            | 🟨 string parsing   | ⬜️ prettier          |
-| 🟨 annotations       |                       | 🟦 pool               | 🟨 lambda expression| 🟦 unittest          |
-| 🟨 interfaces        |                       | 🟦 wrapper            | 🟨 Map              | 🟦 git               |
-| 🟨 super             |                       | 🟨 varargs            | 🟨 RegExp           | 🟦 github            |
-| 🟨 final             |                       | 🟦 lambda             | 🟨 HashSet          | 🟨 JVM               |
-| 🟨 abstract          |                       | 🟨 default methods    | 🟨 ArrayList        | 🟨 packages          |
-| 🟨 Number class      |                       | 🟨 overriding method  | 🟦 null             | 🟨 JRE               |
-| 🟨 String class      |                       | 🟨 overloading method | 🟨 Collection       | ⬜️ JavaFX            |
-| 🟨 wildcard          |                       |                       | 🟨 List             | 🟨 JDK               |
-| 🟨 type casting      |                       |                       | 🟨 Optional         | 🟨 Java SE/EE        |
+| 🟨 annotations       |                       | 🟦 pool               | 🟨 Map              | 🟦 unittest          |
+| 🟨 interfaces        |                       | 🟦 wrapper            | 🟨 RegExp           | 🟦 git               |
+| 🟨 super             |                       | 🟨 varargs            | 🟨 HashSet          | 🟦 github            |
+| 🟨 final             |                       | 🟦 lambda             | 🟨 ArrayList        | 🟨 JVM               |
+| 🟨 abstract          |                       | 🟨 default methods    | 🟦 null             | 🟨 packages          |
+| 🟨 Number class      |                       | 🟨 overriding method  | 🟨 Collection       | 🟨 JRE               |
+| 🟨 String class      |                       | 🟨 overloading method | 🟨 List             | ⬜️ JavaFX            |
+| 🟨 wildcard          |                       | 🟨 lambda expression  | 🟨 Optional         | 🟨 JDK               |
+| 🟨 type casting      |                       |                       |                     | 🟨 Java SE/EE        |
 | 🟨 generics          |                       |                       |                     | ⬜️ Swing Components  |
 | 🟨 i/o operations    |                       |                       |                     | 🟨 JDBC              |
 | 🟨 extends           |                       |                       |                     |                      |
