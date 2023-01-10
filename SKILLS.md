@@ -35,7 +35,26 @@
 | 🟨 wildcard          |                       | 🟨 lambda expression  | 🟨 Optional         | 🟨 JDK               |
 | 🟨 type casting      |                       |                       |                     | 🟨 Java SE/EE        |
 | 🟨 generics          |                       |                       |                     | ⬜️ Swing Components  |
-| 🟨 i/o operations    |                       |                       |                     | 🟨 JDBC              |
+| 🟨 i/o operations    |                       |                       |                     |                      |
 | 🟨 extends           |                       |                       |                     |                      |
 
 
+## Java backend/web programming
+
+| Patterns/Best Practices| Database in Java           | Web                  | Other              |
+| 🟩 Builder             | 🟩 JDBC                    | 🟩 Tomcat container | 🟩 XML             |
+| 🟩 Facade              | 🟩 Mysql syntax            | 🟩 Servlets         | 🟩 JUnit           |
+| 🟩 Singleton           | 🟩 Transactions            | 🟩 JSP              | 🟩 Mockito         |
+| 🟩 Abstract factory    | 🟩 Prepared statement      | 🟩 HttpFilter       | 🟩 REST API        |
+| 🟩 Strategy            | 🟩 DAO                     | 🟩 ServletContext   | 🟩 Stream API      |
+| 🟩 Adapter             | 🟩 DB normalization forms  | 🟩 HttpSession      | 🟩 Logging         |
+| 🟩 Observer            | 🟩 Connection class        | 🟩 HTTP protocol    |
+| 🟩 Decorator           | 🟩 JPA                     | 🟩 Request/Response |
+| 🟩 Strategy            |
+| 🟩 Bridge              |
+| 🟩 Command             |
+| 🟩 Interpreter         |
+| ⬜ Flyweight           |
+| ⬜ Memento             |
+| 🟩 SOLID               |
+| 🟩 GRASP               |
