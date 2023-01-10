@@ -49,7 +49,7 @@
 | 🟩 Abstract factory    | 🟩 Prepared statement      | 🟩 HttpFilter       | 🟩 REST API        |
 | 🟩 Strategy            | 🟩 DAO                     | 🟩 ServletContext   | 🟩 Stream API      |
 | 🟩 Adapter             | 🟩 DB normalization forms  | 🟩 HttpSession      | 🟩 Logging         |
-| 🟩 Observer            | 🟩 Connection class        | 🟩 HTTP protocol    |
+| 🟩 Observer            | 🟩 Connection class        | 🟩 HTTP protocol    | 🟩 Javadoc         |
 | 🟩 Decorator           | 🟩 JPA                     | 🟩 Request/Response |
 | 🟩 Strategy            |
 | 🟩 Bridge              |
