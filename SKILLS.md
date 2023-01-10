@@ -42,6 +42,7 @@
 ## Java backend/web programming
 
 | Patterns/Best Practices| Database in Java           | Web                  | Other              |
+|------------------------|----------------------------|----------------------|--------------------|
 | 🟩 Builder             | 🟩 JDBC                    | 🟩 Tomcat container | 🟩 XML             |
 | 🟩 Facade              | 🟩 Mysql syntax            | 🟩 Servlets         | 🟩 JUnit           |
 | 🟩 Singleton           | 🟩 Transactions            | 🟩 JSP              | 🟩 Mockito         |
